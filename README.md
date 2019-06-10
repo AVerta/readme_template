@@ -9,9 +9,9 @@ Projeto responsável por sincronizar as entradas com o PSis 5.1, de acordo com a
 
 ## Tecnologias Utilizadas
 * [Java] - Usamos Java 8;
-* [Spring] - Não diga, sim, usamos spring boot, spring cloud;
-* [Serverless] - Agora a porra ficou séria;
-* [SQS] - já vi que não é on-line;
+* [Spring] - Usamos spring boot, spring cloud;
+* [Serverless] - Utilizado para gerar estrutura para AWS;
+* [SQS] - Gerenciamento de Filas;
 
 ### Plugins
 | Plugin | README |
